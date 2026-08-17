@@ -43,7 +43,7 @@ I'm currently expanding my depth across **full-stack engineering, data structure
 ### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
 </p>
 
 ### Databases
@@ -55,7 +55,7 @@ I'm currently expanding my depth across **full-stack engineering, data structure
 ### Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" alt="Tools and cloud technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman" alt="Tools and cloud technologies" />
 </p>
 
 ---
