@@ -1,71 +1,111 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=yaswanthsai002&color=blue&style=flat&label=Profile+views" />
-</p>
 <p align="center">
-<img src="assets/banner-1.png" alt="banner" width="1920" height="auto" />
+  <img src="assets/banner-3.png" alt="Yaswanth — Software Engineer" width="100%" />
 </p>
-
-<h1 align="center">Hi, I'm Yaswanth 👋</h1>
-<h3 align="center">Full-Stack Developer (MEAN | MERN | Next.js) — building high-performance, AI-integrated systems</h3>
+<h1 align="center">Hi, I'm Yaswanth</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yaswanth-sai-kotagiri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <strong>Software Engineer · Full-Stack Developer</strong>
+</p>
+<p align="center">
+  Building production web applications across <strong>Angular, React, Next.js, Node.js</strong> and modern TypeScript stacks.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yaswanth-sai-kotagiri">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yaswanthsaikotagiri1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=yaswanthsai002&style=flat&color=2F81F7&label=Profile+Views" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Node.js+%2B+Express+%2B+MongoDB+%2B+Rest%2BAPIs;Angular+%7C+React.js+%7C+Next.js;Event-driven+%26+real-time+systems" alt="typing animation" />
-</p>
+## About Me
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/yaswanthsai002/yaswanthsai002/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/yaswanthsai002/yaswanthsai002/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/yaswanthsai002/yaswanthsai002/output/github-snake.svg"
-  />
-</picture>
+I'm a **Software Engineer and Full-Stack Developer** working across modern frontend and backend ecosystems, with production experience building web applications using **Angular, React, Next.js, Node.js, Express.js and MongoDB**.
+
+My work spans both sides of the application stack — from designing frontend experiences and reusable UI architecture to building REST APIs, backend services, data flows and integrations.
+
+I enjoy working on engineering problems where **architecture, performance, maintainability and developer experience** matter as much as getting the feature shipped.
+
+I'm currently expanding my depth across **full-stack engineering, data structures & algorithms, system design and scalable application architecture**, while remaining open to full-stack opportunities.
 
 ---
 
-### About me
+## Tech Stack
 
-I'm a Full-Stack Developer working mainly across the **MEAN stack** — Angular, Node.js, Express, MongoDB — with hands-on production experience in **React.js** and **Next.js** as well.
+### Frontend
 
-Most of my work sits in backend architecture and real-time systems: redesigning data pipelines to cut API latency, building event-driven platforms that handle scheduling and retries at scale, and wiring AI into product workflows — from analytics dashboards to prompt-driven automation.
-
-I like the kind of problems where a backend decision shows up directly as a frontend performance win.
-
-### What I'm currently doing
-
-- 🔭 Building production systems at **Aptagrim** — Node.js/Express/MongoDB APIs and Angular frontends across client projects
-- 🌱 Deepening **React.js / Next.js** through a live production codebase
-- 🎯 Open to full-stack roles, India-based or remote
-- 💬 Ask me about Angular, Node/Express API design, or MongoDB aggregation pipelines
-
-### Tech I work with
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,angular,react,nextjs,git,postman,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind" alt="Frontend technologies" />
 </p>
 
-### GitHub stats
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database technologies" />
+</p>
+
+### Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" alt="Tools and cloud technologies" />
+</p>
+
+---
+
+## Currently Focused On
+
+* 🧩 Strengthening **Data Structures & Algorithms**
+* 🏗️ Deepening **System Design & Software Architecture**
+* ⚛️ Building deeper expertise across **React.js and Next.js**
+* 🔧 Improving full-stack engineering depth across frontend, backend and databases
+* ☁️ Expanding practical knowledge of **Docker and AWS**
+* 🚀 Exploring opportunities to contribute to challenging **full-stack engineering roles**
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=yaswanthsai002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yaswanthsai002&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=yaswanthsai002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Yaswanth's GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yaswanthsai002&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Yaswanth's most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yaswanthsai002&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=yaswanthsai002&theme=tokyonight&hide_border=true"
+    alt="Yaswanth's GitHub streak"
+  />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yaswanth-sai-kotagiri">
+    <img src="https://img.shields.io/badge/LinkedIn-Yaswanth%20Sai%20Kotagiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yaswanthsaikotagiri1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yaswanthsaikotagiri1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to full-stack engineering opportunities.</i>
 </p>
